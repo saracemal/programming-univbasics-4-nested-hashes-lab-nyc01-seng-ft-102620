@@ -78,9 +78,8 @@ def adding_matz
         :known_for => "Unix",
         :languages => ["C"]
       }
-  programmer_hash[:yukihiro_matsumoto] = 
     }
-programmer_hash << {
+  programmer_hash[:yukihiro_matsumoto]
 end
 
 def changing_alan
